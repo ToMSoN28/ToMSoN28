@@ -14,7 +14,7 @@
 </p>
 <br>
 <p align='center'>
-  Aspiring Automation Tester.
+  Softwere Tester in Accenture Poland
 </p>
 
 <h2 align='center'>
